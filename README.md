@@ -14,3 +14,6 @@ Would like to keep a note of all my developer settings as I switch around machin
 - `2gua.rainbow-brackets`
 - `usernamehw.errorlens`
 - `akamud.vscode-theme-onedark`
+
+## ZSH
+[~/.zshrc](./.zshrc)
