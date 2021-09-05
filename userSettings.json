@@ -1,5 +1,7 @@
 {
-    "window.zoomLevel": 0.5,
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.colorTheme": "One Dark Pro Flat",
+    "workbench.iconTheme": "material-icon-theme",
     "explorer.confirmDelete": false,
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.formatOnPaste": true,
@@ -8,8 +10,6 @@
     "editor.fontFamily": "JetBrains Mono, Monaco, 'Courier New', monospace",
     "editor.fontSize": 14,
     "editor.fontLigatures": true,
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Atom One Dark",
     "peacock.favoriteColors": [
         {
             "name": "Angular Red",
